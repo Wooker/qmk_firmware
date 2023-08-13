@@ -12,4 +12,4 @@ RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 UNICODE_ENABLE = yes        # Unicode
 AUDIO_ENABLE = no           # Audio output
 
-DEFAULT_FOLDER = atreus/astar
+DEFAULT_FOLDER = atreus/promicro
